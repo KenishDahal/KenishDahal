@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KenishDahal
-- 🌱 I’m proficient React and PHP
+- 🌱 I’m proficient Java, Node React
 
 <!---
 KenishDahal/KenishDahal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
